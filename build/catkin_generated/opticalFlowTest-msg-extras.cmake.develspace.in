@@ -1,0 +1,2 @@
+set(opticalFlowTest_MESSAGE_FILES "/home/liuxiaobu/catkin_drone/src/test_optical_flow-wrz/msg/optical_flow_rad.msg")
+set(opticalFlowTest_SERVICE_FILES "")

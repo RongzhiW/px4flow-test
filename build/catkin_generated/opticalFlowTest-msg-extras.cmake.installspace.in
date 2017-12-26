@@ -1,0 +1,2 @@
+set(opticalFlowTest_MESSAGE_FILES "msg/optical_flow_rad.msg")
+set(opticalFlowTest_SERVICE_FILES "")
